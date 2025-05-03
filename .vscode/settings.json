@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "C:\\Program Files\\Python312\\python.exe",
+  "terminal.integrated.env.windows": {
+    "PATH": "C:\\Program Files\\Python312\\;C:\\Program Files\\Python312\\Scripts\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;${env:PATH}"
+  }
+}
